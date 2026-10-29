@@ -1,0 +1,7 @@
+# 构建产物与依赖二进制不进仓库，build.ps1 会自动下载/生成
+build/
+dist/
+vendor/
+
+# 本地测试日志
+test_out.log
